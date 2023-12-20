@@ -15,5 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "react-icons": "^4.12.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
   }
 }
