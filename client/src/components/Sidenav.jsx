@@ -8,7 +8,7 @@ const Sidenav = () => {
     }
   return (
     <div>
-        <AiOutLineMenu/>
+        <AiOutLineMenu className='absolute top-4 right-4 z-[99] md:hidden'/>
     </div>
   )
 }
