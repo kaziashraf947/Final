@@ -1,9 +1,11 @@
 import React from 'react'
-
-const sideNav = () => {
+import {AiOutLineMenu} from 'react-icons/ai'
+const Sidenav = () => {
   return (
-    <div>sideNav</div>
+    <div>
+        <AiOutLineMenu/>
+    </div>
   )
 }
 
-export default sideNav
+export default Sidenav
